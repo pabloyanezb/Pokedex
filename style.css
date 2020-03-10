@@ -1,0 +1,22 @@
+.contenedor img{
+    width: 95%;
+}
+.contenedor img:hover{
+    background-color: rgba(224, 224, 224, 0.829);
+    border-radius: 10px;
+}
+.pokedex{
+    border: 15px solid red;
+    padding: 10px;
+    overflow-y: hidden;
+}
+.modal{
+    padding: 30px;
+}
+.modal img{
+    width: 200px;
+    margin: 30px auto;
+}
+ul, h5, p{
+    margin-left: 20px;
+}
